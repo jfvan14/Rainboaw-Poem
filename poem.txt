@@ -5,4 +5,5 @@ Yellow
 Blue
 Green
 Pink
+INDIGO
 Unicorn
